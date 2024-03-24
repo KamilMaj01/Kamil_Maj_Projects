@@ -1,0 +1,7 @@
+../Core/Src/sht3x.c:58:13:sht3x_send_command	24	static
+../Core/Src/sht3x.c:27:16:calculate_crc.constprop	0	static
+../Core/Src/sht3x.c:44:6:sthx_reset	8	static
+../Core/Src/sht3x.c:79:6:sht3x_init	40	static
+../Core/Src/sht3x.c:100:6:HAL_I2C_MasterRxCpltCallback	0	static
+../Core/Src/sht3x.c:104:6:sht3x_read_temperature_and_humidity	24	static
+../Core/Src/sht3x.c:145:6:sht3x_set_header_enable	0	static

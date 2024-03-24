@@ -1,0 +1,3 @@
+../Core/Src/Servo.c:15:6:Servo_Init	0	static
+../Core/Src/Servo.c:24:6:Servo_set_angle	0	static
+../Core/Src/Servo.c:35:6:Servo_set_speed	0	static
