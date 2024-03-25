@@ -1,0 +1,202 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "googletest-master",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-googletest-master-Debug-d2cc41bd35222378da4a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "C:/Users/majka/OneDrive/Pulpit/AGH/3 semestr/googletest-master"
+				},
+				{
+					"build" : "googletest-master/googlemock",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-googletest-master.googlemock-Debug-6730b3ead6a9866787e0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "C:/Users/majka/OneDrive/Pulpit/AGH/3 semestr/googletest-master/googlemock",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "googletest-master/googletest",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-googletest-master.googletest-Debug-bce5772459158a73308f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 3,
+					"source" : "C:/Users/majka/OneDrive/Pulpit/AGH/3 semestr/googletest-master/googletest",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "7_temat_symulacja_sieci_",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "googletest-distribution",
+					"parentIndex" : 0
+				},
+				{
+					"childIndexes" : 
+					[
+						3
+					],
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "gmock",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "gtest",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "7_temat_symulacja_sieci___debug::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_temat_symulacja_sieci___debug-Debug-5c7341edd388dba12f2f.json",
+					"name" : "7_temat_symulacja_sieci___debug",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_temat_symulacja_sieci___test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_temat_symulacja_sieci___test-Debug-5a8ca908c68a0d08f4f2.json",
+					"name" : "7_temat_symulacja_sieci___test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmock::@007f8d9bf340d4fe6913",
+					"jsonFile" : "target-gmock-Debug-4e80dda859a5715e303b.json",
+					"name" : "gmock",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmock_main::@007f8d9bf340d4fe6913",
+					"jsonFile" : "target-gmock_main-Debug-974a2d1a680355e9dfd7.json",
+					"name" : "gmock_main",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gtest::@f5d8686f3b9b4fbaa54d",
+					"jsonFile" : "target-gtest-Debug-914f23b128d11595dfe0.json",
+					"name" : "gtest",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gtest_main::@f5d8686f3b9b4fbaa54d",
+					"jsonFile" : "target-gtest_main-Debug-2949b523fee1f11c1289.json",
+					"name" : "gtest_main",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/majka/OneDrive/Pulpit/AGH/3 semestr/Zawaanswoane programowanie obiektowe/7 temat(symulacja sieci)/cmake-build-debug",
+		"source" : "C:/Users/majka/OneDrive/Pulpit/AGH/3 semestr/Zawaanswoane programowanie obiektowe/7 temat(symulacja sieci)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

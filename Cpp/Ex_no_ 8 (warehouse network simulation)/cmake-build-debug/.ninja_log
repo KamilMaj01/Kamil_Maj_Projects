@@ -1,0 +1,27 @@
+# ninja log v5
+6	467	6947113896485448	CMakeFiles/net.dir/src/package.cpp.obj	fcf651b364bd46a2
+12	505	6947114127166291	CMakeFiles/net.dir/src/storage_types.cpp.obj	58b5c58001dce486
+13	483	6947113896645214	CMakeFiles/net.dir/main.cpp.obj	4ded7d42ef82553e
+6	1253	6949560750845336	CMakeFiles/NET.dir/src/storage_types.cpp.obj	e7bc2ffbdd1f5f74
+22	881	6964735060102070	CMakeFiles/7_temat_symulacja_sieci___test.dir/src/package.cpp.obj	b367f17919b3cb73
+1301	1743	6949560755722813	NET.exe	43f346fcd06e39b1
+24	1301	6949560751345342	CMakeFiles/NET.dir/src/package.cpp.obj	fb3ee5f19a51206e
+3	557	6964771243053547	build.ninja	d56dd95a7ca20859
+16	1247	6949560750745211	CMakeFiles/NET.dir/main.cpp.obj	4e9dcc45f8aeb1de
+6	777	6964721697614521	CMakeFiles/7_temat_symulacja_sieci___debug.dir/main.cpp.obj	849c2def32e208e6
+14	817	6964721698019696	CMakeFiles/7_temat_symulacja_sieci___debug.dir/src/package.cpp.obj	6c461cb67604441
+28	1618	6949866792178957	CMakeFiles/7_temat_symulacja_sieci___test.dir/test/main_gtest.cpp.obj	fec026a28392f133
+9	1605	6964735067348065	CMakeFiles/7_temat_symulacja_sieci___test.dir/test/test_storage_types.cpp.obj	e1e57f26855b3ae6
+29	1581	6964735067108051	CMakeFiles/7_temat_symulacja_sieci___test.dir/test/test_package.cpp.obj	ccd25ff11e4b5051
+836	1024	6964721700034083	7_temat_symulacja_sieci___debug.exe	391a78f612ea282a
+35	3276	6949866808709557	googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	e8700fd689151a7c
+42	7246	6949866848366289	googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	890ee6ba6b0f2382
+1606	4916	6964735100389011	7_temat_symulacja_sieci___test.exe	aa198f3139352049
+7246	9282	6949866868828454	lib/libgtestd.a	57e384daae33fdfd
+9282	9615	6949866872162375	lib/libgmockd.a	a6b98ba917e56630
+16	886	6964735060151829	CMakeFiles/7_temat_symulacja_sieci___test.dir/src/storage_types.cpp.obj	97bb73d9c1d13e78
+20	835	6964721698199645	CMakeFiles/7_temat_symulacja_sieci___debug.dir/src/storage_types.cpp.obj	7128cb3c8da281ca
+1	1200	6964771308254678	CMakeFiles/7_temat_symulacja_sieci___debug.dir/main.cpp.obj	849c2def32e208e6
+16	1341	6964771309636118	CMakeFiles/7_temat_symulacja_sieci___debug.dir/src/storage_types.cpp.obj	7128cb3c8da281ca
+9	1407	6964771310331117	CMakeFiles/7_temat_symulacja_sieci___debug.dir/src/package.cpp.obj	6c461cb67604441
+1408	1670	6964771312926500	7_temat_symulacja_sieci___debug.exe	391a78f612ea282a

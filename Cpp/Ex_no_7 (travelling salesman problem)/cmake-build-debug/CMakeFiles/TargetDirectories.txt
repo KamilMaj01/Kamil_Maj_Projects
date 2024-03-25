@@ -1,0 +1,3 @@
+C:/Users/majka/OneDrive/Pulpit/AGH/3 semestr/Zawaanswoane programowanie obiektowe/6 temat(komiwojażer)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/majka/OneDrive/Pulpit/AGH/3 semestr/Zawaanswoane programowanie obiektowe/6 temat(komiwojażer)/cmake-build-debug/CMakeFiles/tsp.dir
+C:/Users/majka/OneDrive/Pulpit/AGH/3 semestr/Zawaanswoane programowanie obiektowe/6 temat(komiwojażer)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
