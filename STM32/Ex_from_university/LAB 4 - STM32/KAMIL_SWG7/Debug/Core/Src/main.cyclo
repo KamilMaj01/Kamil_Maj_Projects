@@ -1,0 +1,12 @@
+../Core/Src/main.c:67:6:HAL_SYSTICK_Callback	2
+../Core/Src/main.c:77:6:HAL_TIM_PeriodElapsedCallback	6
+../Core/Src/main.c:111:6:count_number	1
+../Core/Src/main.c:119:6:SetDisp	5
+../Core/Src/main.c:142:6:DispSeg7	1
+../Core/Src/main.c:154:6:SetSeg7	11
+../Core/Src/main.c:200:5:main	1
+../Core/Src/main.c:251:6:SystemClock_Config	3
+../Core/Src/main.c:298:13:MX_TIM11_Init	2
+../Core/Src/main.c:329:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:362:13:MX_GPIO_Init	1
+../Core/Src/main.c:414:6:Error_Handler	1

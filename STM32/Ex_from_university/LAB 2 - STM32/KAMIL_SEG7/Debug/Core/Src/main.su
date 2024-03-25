@@ -1,0 +1,12 @@
+../Core/Src/main.c:67:6:HAL_SYSTICK_Callback	8	static
+../Core/Src/main.c:77:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:111:6:count_number	4	static
+../Core/Src/main.c:119:6:SetDisp	16	static
+../Core/Src/main.c:142:6:DispSeg7	16	static
+../Core/Src/main.c:154:6:SetSeg7	16	static
+../Core/Src/main.c:200:5:main	8	static
+../Core/Src/main.c:251:6:SystemClock_Config	88	static
+../Core/Src/main.c:298:13:MX_TIM11_Init	8	static
+../Core/Src/main.c:329:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:362:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:414:6:Error_Handler	4	static,ignoring_inline_asm
